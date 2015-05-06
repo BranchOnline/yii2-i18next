@@ -30,6 +30,6 @@ class I18NextAsset extends AssetBundle {
 
         $view = Yii::$app->getView();
         $language = Yii::$app->language;
-        $view->registerJs("i18n.init({ lng: '$language' });");
+        $view->registerJs("i18n.init({ lng: '$language', resGetPath: '/locales/__lng__/__ns__.json', fallbackLng: 'en' });");
     }
 }
