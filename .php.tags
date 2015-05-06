@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+I18NextAsset	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^class I18NextAsset extends AssetBundle {$/;"	c
+css	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^    public $css = [];$/;"	v
+depends	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^    public $depends = [$/;"	v
+js	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^    public $js = [$/;"	v
+language	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^        $language = Yii::$app->language;$/;"	v
+path	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^    public $path = '';$/;"	v
+publish	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^    public function publish($am) {$/;"	f
+sourcePath	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^    public $sourcePath = '@bower\/i18next';$/;"	v
+view	/private/var/www/yiiadvanced/testing/vendor/branchonline/yii2-i18next/src/assets/I18NextAsset.php	/^        $view = Yii::$app->getView();$/;"	v

@@ -1,0 +1,23 @@
+{
+    "name": "branchonline/yii2-i18next",
+    "description": "Loads the 81next assets and initializes with the languages specified in the app config",
+    "type": "yii2-i18next",
+    "keywords": ["yii2","i18n", "i18next"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "bower-asset/i18next": "@stable"
+    },
+    "authors": [
+        {
+            "name": "Jap Mul",
+            "email": "jap@branchonline.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "branchonline\\i18next\\": "src/"
+        }
+    }
+}
